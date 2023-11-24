@@ -1,0 +1,14 @@
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\bin\Debug\net8.0\separador-tags.exe
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\bin\Debug\net8.0\separador-tags.deps.json
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\bin\Debug\net8.0\separador-tags.runtimeconfig.json
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\bin\Debug\net8.0\separador-tags.dll
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\bin\Debug\net8.0\separador-tags.pdb
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\obj\Debug\net8.0\separador-tags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\obj\Debug\net8.0\separador-tags.AssemblyInfoInputs.cache
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\obj\Debug\net8.0\separador-tags.AssemblyInfo.cs
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\obj\Debug\net8.0\separador-tags.csproj.CoreCompileInputs.cache
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\obj\Debug\net8.0\separador-tags.dll
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\obj\Debug\net8.0\refint\separador-tags.dll
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\obj\Debug\net8.0\separador-tags.pdb
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\obj\Debug\net8.0\separador-tags.genruntimeconfig.cache
+C:\Users\RAMON\Documents\Projetos e códigos\Csharp\separador-tags\obj\Debug\net8.0\ref\separador-tags.dll
